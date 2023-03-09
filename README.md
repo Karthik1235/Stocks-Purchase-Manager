@@ -1,6 +1,6 @@
 # Stocks Purchase Manager
 
-PDP Group project
+Group project
 
 Our program provides the user with the following features/functionalities:
 
